@@ -1,15 +1,10 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700" height="200" />
-    <h1 align="center">Hola soy Enzo! 👋</h1>
 </div>
 
+---
 
-
-
-
-
-
-
+<h1 align="center">Hola soy Enzo! 👋</h1>
 
 
 ### 🧑 Sobre mi:
@@ -17,6 +12,8 @@
 Soy Full Stack Developer y estudiante de Ingeniería en Sistemas, me gusta el mundo de la programación lo que me llevó a adentrarme cada dia más al desarrollo web, soy una persona que le fascina aprender nuevas tecnologías con buena adaptabilidad a las mismas y constante aprendizaje. Me desenvuelvo bien tanto en Front-End como en Back-End dispuesto a trabajos en equipo. 😄   
 Estoy en búsqueda de un puesto en el cuál pueda crecer en esta profesión. 📈
 
+
+---
 
 <div id="tec" align="left">
     <h3>🔨 Tecnologías:</h3>
@@ -35,17 +32,14 @@ Estoy en búsqueda de un puesto en el cuál pueda crecer en esta profesión. �
     </div>
 </div>
 
-<!--
+---
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="contact" align="left">
+    <h3> 📫 Contacto:</h3>
+    <a href="https://www.linkedin.com/in/enzo-minchaca-345809228/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:enzominchak@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</div>
