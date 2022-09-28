@@ -1,10 +1,11 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy-downsized-large.gif" width="700" height="200"/>
+    <h1 align="center">Hola soy Enzo! 👋</h1>
 </div>
 
----
 
-<h1 align="center">Hola soy Enzo! 👋</h1>
+
+
 
 
 ### 🧑 Sobre mi:
