@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    
     <h1>Hola soy Enzo! 👋</h1>
     <img src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy-downsized-large.gif" width="700" height="200"/>
 </div>
