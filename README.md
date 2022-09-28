@@ -1,6 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy-downsized-large.gif" width="900" height="250" margin="200" padding="300" />
-    <div height="300" width="300"></div>
+    <img src="https://media.giphy.com/media/CXnj3jCwvETngjy11B/giphy-downsized-large.gif" width="900" height="250"/>
 </div>
 
 ---
@@ -32,7 +31,7 @@ Estoy en búsqueda de un puesto en el cuál pueda crecer en esta profesión. �
 </div>
 
 <!--
-**EnzoMinchaca/EnzoMinchaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
