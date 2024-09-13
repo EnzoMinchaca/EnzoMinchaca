@@ -28,7 +28,7 @@ Estoy en búsqueda de un puesto en el cuál pueda crecer en esta profesión. �
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" weight="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" weight="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" weight="40" />&nbsp;
-        <img src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg](https://w7.pngwing.com/pngs/862/702/png-transparent-code-development-logo-odoo-logos-icon-thumbnail.png)" title="Odoo" alt="Odoo" width="40" weight="40" />&nbsp;
+        <img src="https://w7.pngwing.com/pngs/862/702/png-transparent-code-development-logo-odoo-logos-icon-thumbnail.png" title="Odoo" alt="Odoo" width="40" weight="40" />&nbsp;
     </div>
 </div>
 
