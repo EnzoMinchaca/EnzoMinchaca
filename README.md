@@ -6,7 +6,7 @@
 
 ### 🧑 Sobre mi:
 
-Soy Full Stack Developer y estudiante de Ingeniería en Sistemas, me gusta el mundo de la programación lo que me llevó a adentrarme cada dia más al desarrollo web, soy una persona que le fascina aprender nuevas tecnologías con buena adaptabilidad a las mismas y constante aprendizaje. Me desenvuelvo bien tanto en Front-End como en Back-End dispuesto a trabajos en equipo. 😄   
+Soy Full Stack Developer y estudiante de Ingeniería en Sistemas, me gusta el mundo de la programación lo que me llevó a adentrarme cada dia más al desarrollo web, soy una persona que le fascina aprender nuevas tecnologías con buena adaptabilidad a las mismas y constante aprendizaje. Me desenvuelvo bien tanto en Front-End pero mi orientación es trabajar en el Back-End en un trabajo en equipo. 😄   
 Estoy en búsqueda de un puesto en el cuál pueda crecer en esta profesión. 📈
 
 
@@ -23,9 +23,13 @@ Estoy en búsqueda de un puesto en el cuál pueda crecer en esta profesión. �
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" weight="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" weight="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" weight="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" weight="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo" alt="Mongo" width="40" weight="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" weight="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" weight="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" weight="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" weight="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" weight="40" />&nbsp;
+        <img src="[https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg](https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Ffree-png-azbns&psig=AOvVaw2QCtxidvZT0bCzk210kSH6&ust=1726329118181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCf7KKjwIgDFQAAAAAdAAAAABAE)" title="Odoo" alt="Odoo" width="40" weight="40" />&nbsp;
+        
     </div>
 </div>
 
