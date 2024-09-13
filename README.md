@@ -28,8 +28,7 @@ Estoy en búsqueda de un puesto en el cuál pueda crecer en esta profesión. �
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" weight="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" weight="40" />&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" weight="40" />&nbsp;
-        <img src="[https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg](https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Ffree-png-azbns&psig=AOvVaw2QCtxidvZT0bCzk210kSH6&ust=1726329118181000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCf7KKjwIgDFQAAAAAdAAAAABAE)" title="Odoo" alt="Odoo" width="40" weight="40" />&nbsp;
-        
+        <img src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg](https://w7.pngwing.com/pngs/862/702/png-transparent-code-development-logo-odoo-logos-icon-thumbnail.png)" title="Odoo" alt="Odoo" width="40" weight="40" />&nbsp;
     </div>
 </div>
 
